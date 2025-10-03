@@ -1,1 +1,1 @@
-# Internship---Task---8
+I installed and set up a free VPN client. First, I checked my original IP address and internet speed, then connected to a VPN server to verify that my IP address changed and traffic was encrypted. I compared browsing speed before and after using the VPN, noted the differences, and documented the steps with screenshots along with the benefits and limitations of VPNs.
